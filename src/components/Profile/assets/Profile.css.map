@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,4EAAI;AACZ,OAAO,CAAC,mEAAI;ADCZ,AAAA,kBAAkB,CAAA;EACd,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CAK1B;;AAPD,AAGI,kBAHc,CAGd,EAAE,CAAA;EACE,WAAW,ECHP,QAAQ,EAAE,UAAU;EDIxB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "Profile.scss",
+        "../../../variables/Variables.scss"
+    ],
+    "names": [],
+    "file": "Profile.css"
+}

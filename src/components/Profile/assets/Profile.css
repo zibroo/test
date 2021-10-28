@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt&display=swap");
+.container-profile {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container-profile h1 {
+  font-family: "Prompt", sans-serif;
+  font-size: 45px;
+}
+/*# sourceMappingURL=Profile.css.map */

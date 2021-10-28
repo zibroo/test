@@ -1,0 +1,10 @@
+@import '../../../variables/Variables.scss';
+
+.container-profile{
+    display: flex;
+    justify-content: center;
+    h1{
+        font-family: $PromptFont;
+        font-size: 45px;
+    }
+}
